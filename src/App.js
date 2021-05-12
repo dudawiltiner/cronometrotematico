@@ -12,7 +12,6 @@ class App extends React.Component {
   }
 
   changeImage = () => {
-    console.log('aqui')
     this.setState((prevState) => ({ showImage: prevState.showImage === 3 ? 1 : prevState.showImage + 1}));
   }
 

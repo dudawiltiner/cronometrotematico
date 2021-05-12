@@ -51,7 +51,6 @@ class Chronometer extends React.Component {
   changeChronometer = () => {
     if( (this.state.seconds !== '00' || this.state.minutes !== '00' || this.state.hour !== '00') && this.state.start === false){
     this.interval = setInterval(() => {
-    console.log('aqui')
       this.setState((state) => ({
         seconds: parseInt(state.seconds) === 0 ? '59' : (this.convertSubtraiString(state.seconds).length === 2 ? this.convertSubtraiString(state.seconds) : (`0${this.convertSubtraiString(state.seconds)}`)),
         minutes: parseInt(state.minutes) === 0 && parseInt(state.seconds) === 0? '59' : (parseInt(state.seconds) === 0 ? (this.convertSubtraiString(state.minutes).length === 2 ? this.convertSubtraiString(state.minutes) : (`0${this.convertSubtraiString(state.minutes)}`)) : state.minutes),
@@ -77,7 +76,6 @@ class Chronometer extends React.Component {
         alert('Terminou o intervalo! VQV!')
       }
       else if( prevState.seconds === '00' && prevState.minutes === '00'){
-        console.log('tufo')
         this.setState((state) => ({
           seconds: '59',
           minutes: '59',
