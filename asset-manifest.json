@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cronometrotematico/static/css/main.7526b8ba.chunk.css",
-    "main.js": "/cronometrotematico/static/js/main.d5d72141.chunk.js",
-    "main.js.map": "/cronometrotematico/static/js/main.d5d72141.chunk.js.map",
+    "main.js": "/cronometrotematico/static/js/main.db211c7f.chunk.js",
+    "main.js.map": "/cronometrotematico/static/js/main.db211c7f.chunk.js.map",
     "runtime-main.js": "/cronometrotematico/static/js/runtime-main.30c6a459.js",
     "runtime-main.js.map": "/cronometrotematico/static/js/runtime-main.30c6a459.js.map",
     "static/js/2.4d189125.chunk.js": "/cronometrotematico/static/js/2.4d189125.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.30c6a459.js",
     "static/js/2.4d189125.chunk.js",
     "static/css/main.7526b8ba.chunk.css",
-    "static/js/main.d5d72141.chunk.js"
+    "static/js/main.db211c7f.chunk.js"
   ]
 }
