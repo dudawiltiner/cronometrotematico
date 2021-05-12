@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cronometrotematico/static/css/main.6d8282eb.chunk.css",
+    "main.js": "/cronometrotematico/static/js/main.88c4bb45.chunk.js",
+    "main.js.map": "/cronometrotematico/static/js/main.88c4bb45.chunk.js.map",
+    "runtime-main.js": "/cronometrotematico/static/js/runtime-main.30c6a459.js",
+    "runtime-main.js.map": "/cronometrotematico/static/js/runtime-main.30c6a459.js.map",
+    "static/js/2.4d189125.chunk.js": "/cronometrotematico/static/js/2.4d189125.chunk.js",
+    "static/js/2.4d189125.chunk.js.map": "/cronometrotematico/static/js/2.4d189125.chunk.js.map",
+    "static/js/3.ccb74889.chunk.js": "/cronometrotematico/static/js/3.ccb74889.chunk.js",
+    "static/js/3.ccb74889.chunk.js.map": "/cronometrotematico/static/js/3.ccb74889.chunk.js.map",
+    "index.html": "/cronometrotematico/index.html",
+    "static/css/main.6d8282eb.chunk.css.map": "/cronometrotematico/static/css/main.6d8282eb.chunk.css.map",
+    "static/js/2.4d189125.chunk.js.LICENSE.txt": "/cronometrotematico/static/js/2.4d189125.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cronometrotematico/static/media/digital.e4ab0ada.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30c6a459.js",
+    "static/js/2.4d189125.chunk.js",
+    "static/css/main.6d8282eb.chunk.css",
+    "static/js/main.88c4bb45.chunk.js"
+  ]
+}
