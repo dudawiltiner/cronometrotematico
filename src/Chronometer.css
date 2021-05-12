@@ -167,17 +167,19 @@ div{
 
 @media screen and (max-width: 450px){
     .Chronometer, .ChronometerTrybe, .ChronometerStar, .Chronometer1, .Chronometer2, .Chronometer3{
-        font-size: 100px;
+        font-size: 80px;
         padding-bottom: 18px;
     }
 
     .buttonChronometer, .textChronometer, .buttonChronometerTrybe, .textChronometerTrybe, .buttonChronometerStar, .textChronometerStar{
         margin-left: 5px;
         margin-right: 5px;
+        font-size: 30px;
     }
 
     .inputChronometer, .inputChronometerTrybe, .inputChronometerStar{
         margin-left: 10px;
         margin-right: 10px;
+        font-size: 30px;
     }
 }
