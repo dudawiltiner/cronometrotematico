@@ -21,7 +21,7 @@ class App extends React.Component {
   return (
     <div className="App">
       <header className="App-header">
-        {showImage === 3 ? <span onClick={this.changeImage}><img  src='/logoStarWars.svg' width='300' className="App-logo" alt="logo" /></span> : (showImage === 2 ?  <span onClick={this.changeImage}><img  src='/logoTrybe.svg' width='210' className="App-logo" alt="logo" /></span> :  <span onClick={this.changeImage}><img  src='/logo.svg' className="App-logo" alt="logo" /></span>)}
+        {showImage === 3 ? <span onClick={this.changeImage}><img  src='./logoStarWars.svg' width='300' className="App-logo" alt="logo" /></span> : (showImage === 2 ?  <span onClick={this.changeImage}><img  src='./logoTrybe.svg' width='210' className="App-logo" alt="logo" /></span> :  <span onClick={this.changeImage}><img  src='./logo.svg' className="App-logo" alt="logo" /></span>)}
         <Chronometer className="Chronometer" tema={showImage} />
       </header>
     </div>
